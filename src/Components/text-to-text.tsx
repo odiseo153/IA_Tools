@@ -84,7 +84,7 @@ export default function TextToText() {
                                                 </div>
                                             </div>
                                             <div className="flex-shrink-0 h-10 w-10 rounded-full bg-gray-300">
-                                                <img alt='.' className='rounded-full' src='https://th.bing.com/th/id/OIG4.xTzbhKveqi6mY0vrNVHd?pid=ImgGn' />
+                                                <img alt='.' className='rounded-full' src='https://i.pinimg.com/564x/c2/61/3d/c2613d939bb9ce7b74b9e5b237d0c317.jpg' />
                                             </div>
                                         </div>
                                         <div className="flex w-full mt-2 space-x-3">

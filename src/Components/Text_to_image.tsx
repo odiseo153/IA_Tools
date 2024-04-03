@@ -32,7 +32,7 @@ export default function TextToImage() {
                 <div className="w-full md:w-1/3 lg:w-1/2 xl:w-1/3 mt-8 md:mt-0">
                     <div className="top-50 left-50 w-96 mt-5 border-8 rounded-2xl border-sky-500">
                         <div className="h-96 w-full rounded-5 p-5">
-                            <img className="object-cover h-full w-full" src={image} alt={prompt} />
+                            <img className="object-cover h-full w-full" src={image} alt="." />
                         </div>
                     </div>
                 </div>
